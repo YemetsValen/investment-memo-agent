@@ -1,0 +1,284 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Strong fundamentals, potential valuation concern at high P/E"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Premium valuation but strong growth and margins"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "expected_risk_categories": [],
+    "notes": "Reasonable valuation relative to growth"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "High P/E but strong revenue growth"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp.",
+    "expected_risk_categories": ["Valuation", "Volatility"],
+    "notes": "AI-driven growth, extreme valuation, high beta"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc.",
+    "expected_risk_categories": ["Valuation", "Volatility"],
+    "notes": "Very high P/E, high beta, controversial governance"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms Inc.",
+    "expected_risk_categories": [],
+    "notes": "Reasonable valuation after correction"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "expected_risk_categories": [],
+    "notes": "Strong bank with solid fundamentals"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America Corp.",
+    "expected_risk_categories": [],
+    "notes": "Large bank, moderate risk profile"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "expected_risk_categories": [],
+    "notes": "Defensive stock, stable earnings"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "expected_risk_categories": [],
+    "notes": "Healthcare giant, steady dividends"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "High quality but premium valuation"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co.",
+    "expected_risk_categories": [],
+    "notes": "Consumer staples, defensive play"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Inc.",
+    "expected_risk_categories": [],
+    "notes": "Healthcare leader, consistent growth"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot Inc.",
+    "expected_risk_categories": [],
+    "notes": "Retail leader, cyclical exposure"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Co.",
+    "expected_risk_categories": ["Debt"],
+    "notes": "High debt from streaming investments"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "High P/E after streaming dominance"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Enterprise SaaS, premium valuation"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc.",
+    "expected_risk_categories": ["Valuation", "Volatility"],
+    "notes": "AI chip competitor, high volatility"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corp.",
+    "expected_risk_categories": ["Growth", "Profitability"],
+    "notes": "Struggling with execution, margin pressure"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing Co.",
+    "expected_risk_categories": ["Profitability", "Debt", "Liquidity"],
+    "notes": "Negative margins, high debt, quality concerns"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Co.",
+    "expected_risk_categories": ["Debt"],
+    "notes": "Auto manufacturer with significant debt load"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "expected_risk_categories": ["Debt", "Growth"],
+    "notes": "Telecom with heavy debt, limited growth"
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer Inc.",
+    "expected_risk_categories": ["Growth"],
+    "notes": "Post-COVID revenue decline, pipeline uncertainty"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Co.",
+    "expected_risk_categories": [],
+    "notes": "Stable dividend aristocrat"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc.",
+    "expected_risk_categories": [],
+    "notes": "Diversified consumer staples"
+  },
+  {
+    "ticker": "XOM",
+    "name": "Exxon Mobil Corp.",
+    "expected_risk_categories": [],
+    "notes": "Energy major, cyclical exposure to oil prices"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corp.",
+    "expected_risk_categories": [],
+    "notes": "Energy major, strong balance sheet"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corp.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Premium valuation for retail"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Travel platform, growth premium"
+  },
+  {
+    "ticker": "SQ",
+    "name": "Block Inc.",
+    "expected_risk_categories": ["Valuation", "Volatility"],
+    "notes": "Fintech with high volatility"
+  },
+  {
+    "ticker": "SNAP",
+    "name": "Snap Inc.",
+    "expected_risk_categories": ["Profitability", "Volatility"],
+    "notes": "Negative margins, high beta, competitive pressure"
+  },
+  {
+    "ticker": "RIVN",
+    "name": "Rivian Automotive Inc.",
+    "expected_risk_categories": ["Profitability", "Liquidity"],
+    "notes": "Pre-profit EV startup, cash burn concerns"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "expected_risk_categories": ["Valuation", "Volatility"],
+    "notes": "AI/data analytics, extreme valuation"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global Inc.",
+    "expected_risk_categories": ["Volatility"],
+    "notes": "Crypto exchange, highly volatile"
+  },
+  {
+    "ticker": "GME",
+    "name": "GameStop Corp.",
+    "expected_risk_categories": ["Profitability", "Volatility"],
+    "notes": "Meme stock, fundamental challenges"
+  },
+  {
+    "ticker": "AMC",
+    "name": "AMC Entertainment Holdings",
+    "expected_risk_categories": ["Debt", "Profitability", "Liquidity"],
+    "notes": "Cinema chain with heavy debt and cash burn"
+  },
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire Hathaway Inc.",
+    "expected_risk_categories": [],
+    "notes": "Diversified conglomerate, strong balance sheet"
+  },
+  {
+    "ticker": "LLY",
+    "name": "Eli Lilly and Co.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Pharma with GLP-1 drugs driving premium valuation"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber Technologies Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "Ride-sharing/delivery platform, recent profitability"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's Corp.",
+    "expected_risk_categories": [],
+    "notes": "Franchise model, consistent cash flow"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike Inc.",
+    "expected_risk_categories": ["Growth"],
+    "notes": "Consumer brand, recent inventory / demand challenges"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks Corp.",
+    "expected_risk_categories": [],
+    "notes": "Global coffee chain, turnaround phase"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group Inc.",
+    "expected_risk_categories": [],
+    "notes": "Investment bank, cyclical earnings"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "expected_risk_categories": [],
+    "notes": "Diversified financial services"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "expected_risk_categories": [],
+    "notes": "Fintech, undergoing strategic repositioning"
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "expected_risk_categories": ["Valuation"],
+    "notes": "E-commerce platform, high growth premium"
+  }
+]
